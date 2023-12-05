@@ -1,5 +1,3 @@
-<img src="./assets/intro.gif" align="center" alt="GIF" width="800" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Suyash.;%F0%9F%91%80+I%E2%80%99m+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash03022003&label=Profile%20views&color=0e75b6&style=flat" alt="suyash03022003" /> </p>
