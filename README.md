@@ -18,12 +18,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/suyash-patalbansi" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="suyash-patalbansi" height="30" width="30" /></a>
-<a href="https://codesandbox.com/suyash03022003" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-sandbox-3628697-3029922.png" alt="suyash03022003" height="30" width="30" /></a>
-<a href="https://fb.com/suyash.patalbansi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="suyash.patalbansi" height="30" width="30" /></a>
-<a href="https://instagram.com/suyashpatalbansi" target="blank"><img align="center" src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" alt="suyashpatalbansi" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/@suyashpatalbansi6686" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="@suyashpatalbansi6686" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suyashsp03" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="suyashsp03" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/suyash-patalbansi" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="suyash-patalbansi" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://codesandbox.com/suyash03022003" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-sandbox-3628697-3029922.png" alt="suyash03022003" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://fb.com/suyash.patalbansi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="suyash.patalbansi" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/suyashpatalbansi" target="blank"><img align="center" src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" alt="suyashpatalbansi" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/@suyashpatalbansi6686" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="@suyashpatalbansi6686" height="20" width="30" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/suyashsp03" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="suyashsp03" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/suyashsp007" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="suyashsp007" height="30" width="30" /></a>
 </p>
 
