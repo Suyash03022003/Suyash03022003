@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Full Stack Web Development**
 
-- 📫 Connect me through **suyashsp03@gmail.com**
+- 📫 You can reach me at **suyashsp03@gmail.com**
 
 - 📄 Know about my experiences [https://resume-suyash.netlify.app/](https://resume-suyash.netlify.app/)
 
