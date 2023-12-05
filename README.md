@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suyash03022003
-- 👀 I’m interested a Full Stack Web Developer.
+- 👀 I’m a Full Stack Web Developer.
 - 🌱 I’m currently pursuing my B.Tech in Computer Engineering at BIT, Wardha.
 - 💞️ I’m looking to build myself for the strong competition in engineering.
 - 📫 Want to know more about me: https://linktr.ee/suyashpatalbansi.
