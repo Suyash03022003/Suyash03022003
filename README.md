@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" width="800px" src="./assets/intro.gif" />
+<img src="./assets/intro.gif" align="center" alt="GIF" width="800" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash03022003&label=Profile%20views&color=0e75b6&style=flat" alt="suyash03022003" /> </p>
 
