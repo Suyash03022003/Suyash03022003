@@ -8,11 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suyash03022003](https://github.com/Suyash03022003)
 
-- 💬 Ask me about **Full Stack Web Development**
+- 💬 Feel free to ask me about **Full Stack Web Development**
 
 - 📫 You can reach me at **suyashsp03@gmail.com**
-
-- 📄 Know about my experiences [https://resume-suyash.netlify.app/](https://resume-suyash.netlify.app/)
 
 - ⚡ Fun fact **I am a foodie!**
 
